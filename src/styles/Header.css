@@ -4,6 +4,7 @@
     text-align: justify;
     background: rgb(162, 0, 109);
     background: radial-gradient(circle, rgb(162, 0, 109) 65%, rgba(107, 26, 94, 1) 100%);
+    box-shadow: 0px 10px 10px rgba(128, 128, 128, 0.492);
 }
 
 #header .poster {

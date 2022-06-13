@@ -13,6 +13,7 @@ import InviteNote from "./InviteNote";
 import DeveloperInfo from "./DeveloperInfo";
 import Audio from "./Audio";
 import CustomModel from "./CustomModel";
+import Shayari from "./Shayari";
 
 
 import $ from "jquery";
@@ -41,6 +42,7 @@ function App() {
             <CustomModel />
             <Navbar />
             <Header />
+            <Shayari />
             <Slide />
             <Couple />
             <InvitationQuote />
